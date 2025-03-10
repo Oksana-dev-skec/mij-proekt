@@ -1,0 +1,38 @@
+main{
+    width: 800px ;
+    background-color: rgb(186, 158, 199);
+    margin: 0 auto;
+    padding: 20px ;
+    border-left-color: rgb(197, 112, 231);
+    border-left-style: groove;
+    filter: blur();
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 5px 10px rgb(141, 13, 226);
+    padding: 10px 0 ;
+    font-style: oblique;
+}
+
+h2{
+    text-align: center;
+    color: rgb(221, 17, 194);
+    margin: 0 auto;
+    font-style: inherit;
+}
+
+h3{
+    text-align: center;
+    color: rgb(221, 17, 194);
+}
+
+img{
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: 5px auto;
+    border-radius: 0 50px;
+    box-shadow: 0 5px 10px rgb(141, 13, 226);
+}
